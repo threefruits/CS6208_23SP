@@ -21,8 +21,7 @@ $ pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv
 
 ## Train and Test
 
-Run the Jupyter notebook [train_and_test.ipynb](train_and_test.ipynb). You can also directly run `train.py` and `test.py`.
-
+Run the Jupyter notebook [train_and_test.ipynb](train_and_test.ipynb).
 
 # References
 Veličković, Petar, Rex Ying, Matilde Padovano, Raia Hadsell, and Charles Blundell. "Neural execution of graph algorithms." arXiv preprint arXiv:1910.10593 (2019).
