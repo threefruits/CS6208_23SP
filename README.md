@@ -23,5 +23,10 @@ $ pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv
 
 Run the Jupyter notebook [train_and_test.ipynb](train_and_test.ipynb).
 
+
+![avatar](/imgs/table1.png)
+![avatar](/imgs/table2.png)
+
+
 # References
 Veličković, Petar, Rex Ying, Matilde Padovano, Raia Hadsell, and Charles Blundell. "Neural execution of graph algorithms." arXiv preprint arXiv:1910.10593 (2019).
